@@ -1,3 +1,5 @@
 tea
 coffee
 bread
+sugar
+samosa
