@@ -3,3 +3,4 @@ coffee
 bread
 sugar
 samosa
+rice
