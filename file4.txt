@@ -3,7 +3,12 @@ laxmi
 sarika
 gayathri
 narayana
+<<<<<<< HEAD
 shamala
+mallesh
+=======
+shyamala
+>>>>>>> hotfix
 sravani
 4545
 123123123123123123123123123123123123
